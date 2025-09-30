@@ -7,6 +7,8 @@
 *.o
 *.obj
 
+target/
+
 # Precompiled Headers
 *.gch
 *.pch
