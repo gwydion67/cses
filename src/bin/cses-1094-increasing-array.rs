@@ -9,7 +9,7 @@ use cpio::*;
 
 sol! {
     fn solution(
-        n: usize,
+        _n: usize,
         a: [usize]
     ) -> usize {
         a.into_iter()
